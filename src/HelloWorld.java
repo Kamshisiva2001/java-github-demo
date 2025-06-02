@@ -1,6 +1,7 @@
 
 public class HelloWorld{
     public static void main (String[]args){
-     system.out.println("Hello from GitHub and Java")
+     System.out.println("Hello from GitHub and Java");
+     System.out.println("This code was written by kamshi");
     }
 }
